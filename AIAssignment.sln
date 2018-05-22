@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIAssignment.Plugins", "AIAssignment.Plugins.csproj", "{30F04877-9E78-D4D3-2C32-45EA4B3AADEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIAssignment", "AIAssignment.csproj", "{8053A39A-D8CE-8352-EB6D-8751427CDCC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIAssignment.Editor.Plugins", "AIAssignment.Editor.Plugins.csproj", "{3B65C1C0-A2B4-56AC-B599-C2897BDF7017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F04877-9E78-D4D3-2C32-45EA4B3AADEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F04877-9E78-D4D3-2C32-45EA4B3AADEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F04877-9E78-D4D3-2C32-45EA4B3AADEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F04877-9E78-D4D3-2C32-45EA4B3AADEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8053A39A-D8CE-8352-EB6D-8751427CDCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8053A39A-D8CE-8352-EB6D-8751427CDCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8053A39A-D8CE-8352-EB6D-8751427CDCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8053A39A-D8CE-8352-EB6D-8751427CDCC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B65C1C0-A2B4-56AC-B599-C2897BDF7017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B65C1C0-A2B4-56AC-B599-C2897BDF7017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B65C1C0-A2B4-56AC-B599-C2897BDF7017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B65C1C0-A2B4-56AC-B599-C2897BDF7017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
